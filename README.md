@@ -12,9 +12,9 @@
 
 Investor | Software Developer | AI Specialist | Digital Marketing Consultant
 
-🌐 [Ağabeyoğlu Grup](https://agabeyoglugrup.com/) & [EAGM Group](https://eagmgroup.com/)
+🌐 [Ağabeyoğlu Grup](https://agabeyoglugrup.com/) [EAGM Group](https://eagmgroup.com/) [Tech Ai Core](https://techaicore.com/)
 
-📍 Locations: Antalya/UK/Istanbul/K.Maras
+📍 Locations: Antalya | İstanbul | K.Maraş | UK | ABD
 
 📺 [YouTube Channel](https://www.youtube.com/c/Ertu%C4%9FrulAkben)
 
