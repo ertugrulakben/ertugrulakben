@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @ertugrulakben
 - 👀 I’m interested in web design, SEO-SEM optimization, social media consultancy, and advertising.
-- 🌱 I’m currently advanced AI integrations, automation tools, and full-stack development.
+- 🌱 I’m currently exploring advanced AI integrations, automation tools, and full-stack development.
 - 💞️ I’m looking to collaborate on innovative web projects, digital marketing strategies, and AI-driven solutions.
 - 📫 How to reach me: [Email](mailto:i@ertugrulakben.com), [LinkedIn](https://www.linkedin.com/in/ertugrulakben), [Twitter](https://twitter.com/ertugrulakben), [Instagram](https://www.instagram.com/ertugrulakben/), [Facebook](https://www.facebook.com/ertugrulakbn/)
 - 😄 Pronouns: He/Him
