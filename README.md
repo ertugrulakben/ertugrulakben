@@ -10,7 +10,7 @@
 
 ## About Me
 
-Investor | Software Developer | AI Specialist | Digital Marketing Consultant
+AI & Systems Strategist | Investor | Digital Media and Brand Consultant
 
 🌐 [Ağabeyoğlu Grup](https://agabeyoglugrup.com/) [EAGM Group](https://eagmgroup.com/) [Tech Ai Core](https://techaicore.com/)
 
