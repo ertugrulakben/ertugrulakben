@@ -1,26 +1,87 @@
-# Ertuğrul Akben's GitHub Profile
+# Ertuğrul Akben
 
-- 👋 Hi, I’m @ertugrulakben
-- 👀 I’m interested in web design, SEO-SEM optimization, social media consultancy, and advertising.
-- 🌱 I’m currently advanced AI integrations, automation tools, and full-stack development.
-- 💞️ I’m looking to collaborate on innovative web projects, digital marketing strategies, and AI-driven solutions.
-- 📫 How to reach me: [Email](mailto:i@ertugrulakben.com), [LinkedIn](https://www.linkedin.com/in/ertugrulakben), [Twitter](https://twitter.com/ertugrulakben), [Instagram](https://www.instagram.com/ertugrulakben/), [Facebook](https://www.facebook.com/ertugrulakbn/)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love playing billiards, drawing caricatures, and writing poetry in my free time.
+**AI & Systems Strategist | Investor | Digital Media & Brand Consultant | Researcher**
+
+📝 *I regularly publish articles on AI, digital transformation, and entrepreneurship at [ertugrulakben.com](https://ertugrulakben.com)*
+
+---
 
 ## About Me
 
-AI & Systems Strategist | Investor | Digital Media and Brand Consultant
+I'm a Turkish AI strategist, entrepreneur, and researcher based in Antalya. I founded Ağabeyoğlu Grup in 2016 and have since expanded to the UK (EAGM Group) and USA (Tech AI Core).
 
-🌐 [Ağabeyoğlu Grup](https://agabeyoglugrup.com/) [EAGM Group](https://eagmgroup.com/) [Tech Ai Core](https://techaicore.com/)
+In 2025, I conducted **AI-MOI Turkey 2025** research - surveying 490 companies and 1,414 participants across Turkey's seven regions to measure AI maturity in businesses.
 
-📍 Locations: Antalya | İstanbul | K.Maraş | UK | ABD
+I also built **JARVIS**, a personal AI assistant system powered by Claude Opus with 69+ skills, 49 agents, and 150+ MCP tools.
 
-📺 [YouTube Channel](https://www.youtube.com/c/Ertu%C4%9FrulAkben)
+---
 
-🌐 [Website](https://ertugrulakben.com)
+## Current Focus
 
-<!---
-ertugrulakben/ertugrulakben is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- **NeuroCausal RAG v5.2**: Causality-based retrieval system with multi-hop reasoning - deployed to production 2 months before global academia published similar research (CC-RAG, UIUC)
+- **DSGMv2**: Turkish-optimized AI model alternative to Transformers - 2.36x faster inference, 38.7% less VRAM, 92.47% accuracy
+- **MCP Development**: [Ağabeyoğlu Borsa MCP](https://neyeyatirim.com) - 90+ tools for Turkish financial markets
+- **AI Education**: [SYS4AI](https://sys4ai.com) - 500+ individual students, 30+ corporate partners
+- **100+ SaaS Projects**: From accounting to CRM, photo processing to education platforms
+
+---
+
+## Companies
+
+| Company | Location | Focus |
+|---------|----------|-------|
+| [Ağabeyoğlu Grup](https://agabeyoglugrup.com) | Istanbul, TR | Media, Software, Construction |
+| [EAGM Group](https://eagmgroup.com) | London, UK | AI Solutions, Digital Marketing |
+| [Tech AI Core](https://eagmgroup.com) | Delaware, USA | AI & Software Development |
+
+---
+
+## Publications & Media
+
+- **Columnist** at [Startup Gazetesi](https://startupgazetesi.com/author/ea/) & [Aksu TV Haber](https://www.aksutvhaber.net/ertugrul-akben)
+- **AI-MOI 2025 Research Report**: [ai.ertugrulakben.com](https://ai.ertugrulakben.com)
+- **Personal Blog**: [ertugrulakben.com](https://ertugrulakben.com) (94+ articles)
+
+---
+
+## Tech Stack
+
+```
+AI/ML       : Claude API, OpenAI, LangChain, RAG Systems, MCP
+Languages   : Python, TypeScript, PHP
+Tools       : VS Code, Claude Code, Cursor
+Infra       : Cloudflare, Plesk, Docker
+```
+
+---
+
+## Stats
+
+- **5+** Companies across **7** countries
+- **136+** Investments
+- **100+** SaaS projects in production
+- **500+** Individual AI training sessions
+- **30+** Corporate training partners
+- **94+** Technical blog posts
+
+---
+
+## Connect
+
+- **Website**: [ertugrulakben.com](https://ertugrulakben.com)
+- **LinkedIn**: [linkedin.com/in/ertugrulakben](https://linkedin.com/in/ertugrulakben)
+- **Instagram**: [@ertugrulakben](https://instagram.com/ertugrulakben)
+- **YouTube**: [Ertuğrul Akben](https://youtube.com/c/ErtuğrulAkben)
+- **Email**: [i@ertugrulakben.com](mailto:i@ertugrulakben.com)
+
+---
+
+## Fun Facts
+
+- Licensed billiards player
+- Former theater performer and radio host
+- Started entrepreneurship at age 10 (2008)
+
+---
+
+> *"Technology has made language barriers obsolete - solutions are at our fingertips!"*
