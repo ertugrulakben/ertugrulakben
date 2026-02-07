@@ -10,9 +10,9 @@
 
 I'm a Turkish AI strategist, entrepreneur, and researcher based in Antalya. I founded Ağabeyoğlu Grup in 2016 and have since expanded to the UK (EAGM Group) and USA (Tech AI Core).
 
-In 2025, I conducted **AI-MOI Turkey 2025** research - surveying 490 companies and 1,414 participants across Turkey's seven regions to measure AI maturity in businesses.
+In 2025, I conducted **AI-MOI Turkey 2025** research - surveying 490 companies and 1,414 participants across Turkey's seven regions to measure AI maturity in businesses. Result: Average score of 14.03/100, with only 8.6% of SMEs actively using AI.
 
-I also built **JARVIS**, a personal AI assistant system powered by Claude Opus with 69+ skills, 49 agents, and 150+ MCP tools.
+I also built **JARVIS**, a personal AI assistant system powered by Claude Opus with 74+ skills, 49 agents, and 150+ MCP tools - featuring live voice calls, WhatsApp automation, and autonomous operation modes.
 
 ---
 
@@ -38,9 +38,22 @@ I also built **JARVIS**, a personal AI assistant system powered by Claude Opus w
 
 ## Publications & Media
 
-- **Columnist** at [Startup Gazetesi](https://startupgazetesi.com/author/ea/) & [Aksu TV Haber](https://www.aksutvhaber.net/ertugrul-akben)
+- **Columnist** at [Startup Gazetesi](https://startupgazetesi.com/author/ea/) (6 articles) & [Aksu TV Haber](https://www.aksutvhaber.net/ertugrul-akben) (5 articles)
 - **AI-MOI 2025 Research Report**: [ai.ertugrulakben.com](https://ai.ertugrulakben.com)
-- **Personal Blog**: [ertugrulakben.com](https://ertugrulakben.com) (94+ articles)
+- **Personal Blog**: [ertugrulakben.com](https://ertugrulakben.com) (99 articles)
+- **Speaker**: Dijital Zirve Manavgat 2025 - AI Talk
+
+---
+
+## Certifications
+
+- Google Cloud & IBB AI Camp (2023)
+- BTK Academy: AI Law, IT Law, Project Management (2025)
+- Turkcell Academy: ML, Data Science, Cybersecurity, Python (2025)
+- Microsoft Open Academy: Programming Modules
+- KOSGEB Applied Entrepreneurship (2016)
+- EU Leonardo da Vinci Program (2014)
+- SHGM Drone Pilot License (IHA-1) (2022)
 
 ---
 
@@ -62,7 +75,8 @@ Infra       : Cloudflare, Plesk, Docker
 - **100+** SaaS projects in production
 - **500+** Individual AI training sessions
 - **30+** Corporate training partners
-- **94+** Technical blog posts
+- **99** Technical blog posts
+- **11** Column articles (Startup Gazetesi + Aksu TV)
 
 ---
 
@@ -78,8 +92,10 @@ Infra       : Cloudflare, Plesk, Docker
 
 ## Fun Facts
 
-- Licensed billiards player
+- Licensed billiards, basketball & table tennis player
+- Certified drone pilot (IHA-1)
 - Former theater performer and radio host
+- Published poet on Antoloji.com
 - Started entrepreneurship at age 10 (2008)
 
 ---
