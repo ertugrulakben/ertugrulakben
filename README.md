@@ -20,6 +20,7 @@ I also built **JARVIS**, a personal AI assistant system powered by Claude Opus w
 
 - **NeuroCausal RAG v5.2**: Causality-based retrieval system with multi-hop reasoning - deployed to production 2 months before global academia published similar research (CC-RAG, UIUC)
 - **DSGMv2**: Turkish-optimized AI model alternative to Transformers - 2.36x faster inference, 38.7% less VRAM, 92.47% accuracy
+- **dep-oracle**: [npm](https://npmjs.com/package/dep-oracle) | [GitHub](https://github.com/ertugrulakben/dep-oracle) - Predictive dependency security engine with Trust Scores (0-100), zombie detection, typosquat detection, blast radius analysis. MCP Registry listed.
 - **MCP Development**: [Ağabeyoğlu Borsa MCP](https://neyeyatirim.com) - 90+ tools for Turkish financial markets
 - **AI Education**: [SYS4AI](https://sys4ai.com) - 500+ individual students, 30+ corporate partners
 - **Meslek Risk AI**: [meslekriskiai.com](https://www.meslekriskiai.com) - AI job displacement risk calculator with 45+ professions, Goldman Sachs/WEF/McKinsey data
@@ -41,7 +42,7 @@ I also built **JARVIS**, a personal AI assistant system powered by Claude Opus w
 
 - **Columnist** at [Startup Gazetesi](https://startupgazetesi.com/author/ea/) (6 articles) & [Aksu TV Haber](https://www.aksutvhaber.net/ertugrul-akben) (5 articles)
 - **AI-MOI 2025 Research Report**: [ai.ertugrulakben.com](https://ai.ertugrulakben.com)
-- **Personal Blog**: [ertugrulakben.com](https://ertugrulakben.com) (105 articles)
+- **Personal Blog**: [ertugrulakben.com](https://ertugrulakben.com) (113 articles)
 - **Speaker**: Dijital Zirve Manavgat 2025 - AI Talk
 
 ---
@@ -76,7 +77,7 @@ Infra       : Cloudflare, Plesk, Docker
 - **100+** SaaS projects in production
 - **500+** Individual AI training sessions
 - **30+** Corporate training partners
-- **105** Technical blog posts
+- **113** Technical blog posts
 - **13** Column articles (Startup Gazetesi + Aksu TV)
 
 ---
