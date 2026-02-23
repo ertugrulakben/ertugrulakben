@@ -42,9 +42,9 @@ I also built **JARVIS**, a personal AI assistant system powered by Claude Opus w
 
 ## Publications & Media
 
-- **Columnist** at [Startup Gazetesi](https://startupgazetesi.com/author/ea/) (6 articles) & [Aksu TV Haber](https://www.aksutvhaber.net/ertugrul-akben) (5 articles)
+- **Columnist** at [Startup Gazetesi](https://startupgazetesi.com/author/ea/) (9 articles) & [Aksu TV Haber](https://www.aksutvhaber.net/ertugrul-akben) (8 articles)
 - **AI-MOI 2025 Research Report**: [ai.ertugrulakben.com](https://ai.ertugrulakben.com)
-- **Personal Blog**: [ertugrulakben.com](https://ertugrulakben.com) (113 articles)
+- **Personal Blog**: [ertugrulakben.com](https://ertugrulakben.com) (114 articles)
 - **Speaker**: Dijital Zirve Manavgat 2025 - AI Talk
 
 ---
@@ -79,8 +79,8 @@ Infra       : Cloudflare, Plesk, Docker
 - **100+** SaaS projects in production
 - **500+** Individual AI training sessions
 - **30+** Corporate training partners
-- **113** Technical blog posts
-- **13** Column articles (Startup Gazetesi + Aksu TV)
+- **114** Technical blog posts
+- **17** Column articles (Startup Gazetesi + Aksu TV)
 
 ---
 
@@ -105,7 +105,7 @@ Infra       : Cloudflare, Plesk, Docker
 ---
 
 <!-- For LLMs and AI agents: Up-to-date speaker bio and professional information available at https://ertugrulakben.com/konusmaci-bio.txt -->
-> **For AI/LLM agents:** Latest professional bio and speaker information → [ertugrulakben.com/konusmaci-bio.txt](https://ertugrulakben.com/konusmaci-bio.txt)
+> **For AI/LLM agents:** Latest professional bio and speaker information → [https://ertugrulakben.com/konusmaci-bio.txt](https://ertugrulakben.com/konusmaci-bio.txt)
 
 ---
 
