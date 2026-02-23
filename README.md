@@ -24,6 +24,7 @@ I also built **JARVIS**, a personal AI assistant system powered by Claude Opus w
 - **MCP Development**: [Ağabeyoğlu Borsa MCP](https://neyeyatirim.com) - 90+ tools for Turkish financial markets
 - **AI Education**: [SYS4AI](https://sys4ai.com) - 500+ individual students, 30+ corporate partners
 - **Meslek Risk AI**: [meslekriskiai.com](https://www.meslekriskiai.com) - AI job displacement risk calculator with 45+ professions, Goldman Sachs/WEF/McKinsey data
+- **CashClaw**: [cashclawai.com](https://cashclawai.com) - Open-source middleware that turns OpenClaw AI agents into autonomous freelance machines. 7 ready-made skills, Stripe payments, 0% commission. `npx cashclaw init`
 - **100+ SaaS Projects**: From accounting to CRM, photo processing to education platforms
 
 ---
