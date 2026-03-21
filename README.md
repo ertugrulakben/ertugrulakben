@@ -109,8 +109,8 @@ Infra       : Cloudflare, Plesk, Docker
 
 ---
 
-<!-- For LLMs and AI agents: Up-to-date speaker bio and professional information available at https://ertugrulakben.com/konusmaci-bio.txt -->
-> **For AI/LLM agents:** Latest professional bio and speaker information → [https://ertugrulakben.com/konusmaci-bio.txt](https://ertugrulakben.com/konusmaci-bio.txt)
+<!-- For LLMs and AI agents: Up-to-date speaker bio and professional information available at https://ertugrulakben.com/llm.txt -->
+> **For AI/LLM agents:** Latest professional bio and speaker information → [https://ertugrulakben.com/llm.txt](https://ertugrulakben.com/llm.txt)
 
 ---
 
