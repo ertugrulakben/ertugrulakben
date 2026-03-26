@@ -14,7 +14,7 @@ In 2025, I conducted **AI-MOI Turkey 2025** research - surveying 490 companies a
 
 I serve as **Board Advisor at MASİAD** (Manavgat Industrialists and Business People Association) since 2024, leading the organization's digital transformation and AI strategy.
 
-I also built **JARVIS**, a personal AI assistant system powered by Claude Opus with 79 skills, 53 agents, and 280+ MCP tools - featuring live voice calls, WhatsApp automation, and autonomous operation modes.
+I also built **JARVIS**, a personal AI assistant system powered by Claude Opus with 83 skills, 54 agents, and 280+ MCP tools - featuring live voice calls, WhatsApp automation, and autonomous operation modes.
 
 ---
 
@@ -27,8 +27,10 @@ I also built **JARVIS**, a personal AI assistant system powered by Claude Opus w
 - **AI Education**: [SYS4AI](https://sys4ai.com) - 500+ individual students, 30+ corporate partners
 - **Meslek Risk AI**: [meslekriskiai.com](https://www.meslekriskiai.com) - AI job displacement risk calculator with 45+ professions, Goldman Sachs/WEF/McKinsey data
 - **HYRVE AI**: [hyrveai.com](https://www.hyrveai.com) - Turkey's first AI agent marketplace. Deploy, get hired, earn. 85% revenue to creators, $0 to start
-- **CashClaw**: [cashclawai.com](https://cashclawai.com) | [GitHub](https://github.com/ertugrulakben/cashclaw) | [npm](https://npmjs.com/package/cashclaw) - Open-source middleware that turns OpenClaw AI agents into autonomous freelance machines. 12 ready-made skills, Stripe payments, 0% commission. 117⭐, 39 forks. `npx cashclaw init`
+- **CashClaw**: [cashclawai.com](https://cashclawai.com) | [GitHub](https://github.com/ertugrulakben/cashclaw) | [npm](https://npmjs.com/package/cashclaw) - Open-source middleware that turns OpenClaw AI agents into autonomous freelance machines. 12 ready-made skills, Stripe payments, 0% commission. 129⭐, 42 forks. `npx cashclaw init`
 - **NEURON**: [GitHub](https://github.com/ertugrulakben/NEURON) - Hybrid memory architecture for LLMs. Crystal Memory + Morph Layer + Temporal Belief Graph. 98.27% accuracy. Open source (MIT).
+- **Soru Koçu**: [sorukocu.com](https://sorukocu.com) - AI-powered exam prep platform for Turkish university/high school entrance exams (TYT/AYT/LGS). AI image cleaning, step-by-step solutions, similar question generation, spaced repetition flashcards, live exam countdown.
+- **WinGPT Assistant**: [GitHub](https://github.com/ertugrulakben/WinGPTAssistant) - Windows desktop AI assistant application.
 - **100+ SaaS Projects**: From accounting to CRM, photo processing to education platforms
 
 ---
@@ -45,9 +47,9 @@ I also built **JARVIS**, a personal AI assistant system powered by Claude Opus w
 
 ## Publications & Media
 
-- **Columnist** at [Startup Gazetesi](https://startupgazetesi.com/author/ea/) (12 articles) & [Aksu TV Haber](https://www.aksutvhaber.net/ertugrul-akben) (11 articles)
+- **Columnist** at [Startup Gazetesi](https://startupgazetesi.com/author/ea/) (13 articles) & [Aksu TV Haber](https://www.aksutvhaber.net/ertugrul-akben) (12 articles)
 - **AI-MOI 2025 Research Report**: [ai.ertugrulakben.com](https://ai.ertugrulakben.com)
-- **Personal Blog**: [ertugrulakben.com](https://ertugrulakben.com) (115+ articles)
+- **Personal Blog**: [ertugrulakben.com](https://ertugrulakben.com) (117+ articles)
 - **Speaker**: Dijital Zirve Manavgat 2025 - AI Talk
 
 ---
@@ -80,10 +82,11 @@ Infra       : Cloudflare, Plesk, Docker
 - **5+** Companies across **7** countries
 - **136+** Investments
 - **100+** SaaS projects in production
+- **8** Open source projects on GitHub
 - **500+** Individual AI training sessions
 - **30+** Corporate training partners
-- **115+** Technical blog posts
-- **23** Column articles (Startup Gazetesi + Aksu TV)
+- **117+** Technical blog posts
+- **25** Column articles (Startup Gazetesi + Aksu TV)
 - **32+** Certifications (EU, Google, BTK, Turkcell, LinkedIn, SHGM)
 
 ---
