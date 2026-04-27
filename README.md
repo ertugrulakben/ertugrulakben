@@ -14,7 +14,7 @@ In 2025, I conducted **AI-MOI Turkey 2025** research - surveying 490 companies a
 
 I serve as **Board Advisor at MASİAD** (Manavgat Industrialists and Business People Association) since 2024, leading the organization's digital transformation and AI strategy.
 
-I also built **JARVIS**, a personal AI assistant system powered by Claude Opus with 88 skills, 54 agents, and 320+ MCP tools - featuring live voice calls, WhatsApp automation, and autonomous operation modes.
+I also built **JARVIS**, a personal AI assistant system powered by Claude Opus with 88 skills, 54 agents, and 324+ MCP tools - featuring live voice calls, WhatsApp automation, and autonomous operation modes.
 
 ---
 
@@ -26,8 +26,8 @@ I also built **JARVIS**, a personal AI assistant system powered by Claude Opus w
 - **MCP Development**: [Ağabeyoğlu Borsa MCP](https://neyeyatirim.com) - 96 tools for Turkish financial markets
 - **AI Education**: [SYS4AI](https://sys4ai.com) - 500+ individual students, 30+ corporate partners
 - **Meslek Risk AI**: [meslekriskiai.com](https://www.meslekriskiai.com) - AI job displacement risk calculator with 45+ professions, Goldman Sachs/WEF/McKinsey data
-- **HYRVE AI**: [hyrveai.com](https://www.hyrveai.com) - The OS for the AI agent economy. 5,222+ agents/clients, 50+ API endpoints. Deploy, get hired, earn. 85% revenue to creators, $0 to start. 16⭐, 1 fork
-- **CashClaw**: [cashclawai.com](https://cashclawai.com) | [GitHub](https://github.com/ertugrulakben/cashclaw) | [npm](https://npmjs.com/package/cashclaw) - Open-source middleware that turns OpenClaw AI agents into autonomous freelance machines. 50+ HYRVE API endpoints, job polling daemon, auto-accept mode, 12 ready-made skills, Stripe payments, 0% commission. v1.6.2. 230⭐, 85 forks, 11 watchers. `npx cashclaw init`
+- **HYRVE AI**: [hyrveai.com](https://www.hyrveai.com) - The OS for the AI agent economy. 5,469+ agents/clients, 50+ API endpoints. Deploy, get hired, earn. 85% revenue to creators, $0 to start. 16⭐, 1 fork
+- **CashClaw**: [cashclawai.com](https://cashclawai.com) | [GitHub](https://github.com/ertugrulakben/cashclaw) | [npm](https://npmjs.com/package/cashclaw) - Open-source middleware that turns OpenClaw AI agents into autonomous freelance machines. 50+ HYRVE API endpoints, job polling daemon, auto-accept mode, 12 ready-made skills, Stripe payments, 0% commission. v1.6.2. 249⭐, 97 forks, 12 watchers. `npx cashclaw init`
 - **NEURON**: [GitHub](https://github.com/ertugrulakben/NEURON) - Hybrid memory architecture for LLMs. Crystal Memory + Morph Layer + Temporal Belief Graph. 98.27% accuracy. Open source (MIT).
 - **Lucid**: Desktop AI agent that sees the screen and drives mouse/keyboard like a human operator. 3 modes (Answer/Teach/Execute), Windows UI Automation based semantic clicks (`click_element`, `focus_window`, `file_dialog_paste`, `screenshot_to_clipboard`, `run_shell`), clipboard-based typing (keyboard-layout independent), SQLite memory, named workflows with variables (`lucid run create_invoice --var customer=Acme`), scheduled tasks (`--cron`/`--every`/`--in 30m`), reference image attachments, resilient long-task mode, built-in settings dialog with provider picker (Anthropic API / Claude Code CLI / LM Studio local). Per-action timeout, destructive action confirmation modal, kill switch, retry escalation with loop detector. Python 3.10+, Windows 10/11, 106 tests, MIT license. **Coming soon as open source.**
 - **EA Real-Time Translation System**: Live voice translation for Zoom, Google Meet, WhatsApp, phone calls. **0.6s end-to-end latency**, **80+ languages**, speaker's own cloned voice (ElevenLabs v3), emotion preservation via audio tags ([laughs], [whispers], [excited]). Context-aware Whisper pipeline (recent transcript history, proper-noun vocabulary injection), hybrid VAD + soft-cap flush, LRU translation cache, 16kHz upstream. **In production for 1 year in my call center.** Open source coming soon.
@@ -49,9 +49,9 @@ I also built **JARVIS**, a personal AI assistant system powered by Claude Opus w
 
 ## Publications & Media
 
-- **Columnist** at [Startup Gazetesi](https://startupgazetesi.com/author/ea/) (16 articles) & [Aksu TV Haber](https://www.aksutvhaber.net/ertugrul-akben) (15 articles)
+- **Columnist** at [Startup Gazetesi](https://startupgazetesi.com/author/ea/) (18 articles) & [Aksu TV Haber](https://www.aksutvhaber.net/ertugrul-akben) (17 articles)
 - **AI-MOI 2025 Research Report**: [ai.ertugrulakben.com](https://ai.ertugrulakben.com)
-- **Personal Blog**: [ertugrulakben.com](https://ertugrulakben.com) (122+ articles)
+- **Personal Blog**: [ertugrulakben.com](https://ertugrulakben.com) (123+ articles)
 - **Speaker**: Dijital Zirve Manavgat 2025 - AI Talk
 
 ---
@@ -87,8 +87,8 @@ Infra       : Cloudflare, Plesk, Docker
 - **8** Open source projects on GitHub
 - **500+** Individual AI training sessions
 - **30+** Corporate training partners
-- **122+** Technical blog posts
-- **31** Column articles (Startup Gazetesi + Aksu TV)
+- **123+** Technical blog posts
+- **35** Column articles (Startup Gazetesi + Aksu TV)
 - **32+** Certifications (EU, Google, BTK, Turkcell, LinkedIn, SHGM)
 
 ---
