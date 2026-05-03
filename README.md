@@ -49,7 +49,7 @@ I also built **JARVIS**, a personal AI assistant system powered by Claude Opus w
 
 ## Publications & Media
 
-- **Columnist** at [Startup Gazetesi](https://startupgazetesi.com/author/ea/) (18 articles) & [Aksu TV Haber](https://www.aksutvhaber.net/ertugrul-akben) (18 articles)
+- **Columnist** at [Startup Gazetesi](https://startupgazetesi.com/author/ea/) (19 articles) & [Aksu TV Haber](https://www.aksutvhaber.net/ertugrul-akben) (18 articles)
 - **AI-MOI 2025 Research Report**: [ai.ertugrulakben.com](https://ai.ertugrulakben.com)
 - **Personal Blog**: [ertugrulakben.com](https://ertugrulakben.com) (123+ articles)
 - **Speaker**: Dijital Zirve Manavgat 2025 - AI Talk
@@ -88,7 +88,7 @@ Infra       : Cloudflare, Plesk, Docker
 - **500+** Individual AI training sessions
 - **30+** Corporate training partners
 - **123+** Technical blog posts
-- **36** Column articles (Startup Gazetesi + Aksu TV)
+- **37** Column articles (Startup Gazetesi + Aksu TV)
 - **32+** Certifications (EU, Google, BTK, Turkcell, LinkedIn, SHGM)
 
 ---
