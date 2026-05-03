@@ -14,7 +14,7 @@ In 2025, I conducted **AI-MOI Turkey 2025** research - surveying 490 companies a
 
 I serve as **Board Advisor at MASİAD** (Manavgat Industrialists and Business People Association) since 2024, leading the organization's digital transformation and AI strategy.
 
-I also built **JARVIS**, a personal AI assistant system powered by Claude Opus with 89 skills, 53 agents, and 324+ MCP tools (15 servers) - featuring live voice calls, WhatsApp automation, and autonomous operation modes.
+I also built **JARVIS**, a personal AI assistant system powered by Claude Opus with 89 skills, 53 agents, and 344+ MCP tools (16 servers, including Blender 3D) - featuring live voice calls, WhatsApp automation, and autonomous operation modes.
 
 ---
 
