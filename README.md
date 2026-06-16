@@ -32,8 +32,8 @@ For projects requiring production-line automation, sensor data, PLC/SCADA, robot
 - **AI Education**: [SYS4AI](https://sys4ai.com) - 500+ individual students, 30+ corporate partners
 - **GEOSATINAL**: [geosatinal.com](https://geosatinal.com) - Generative Engine Optimization (GEO) agency. Brand citation optimization for ChatGPT, Gemini, Perplexity, and Google AI Mode. The AI-era adaptation of the SEO services we've been delivering for years, now launched as a dedicated service brand.
 - **Meslek Risk AI**: [meslekriskiai.com](https://www.meslekriskiai.com) - AI job displacement risk calculator with 45+ professions, Goldman Sachs/WEF/McKinsey data
-- **HYRVE AI**: [hyrveai.com](https://www.hyrveai.com) - The OS for the AI agent economy. 5,933+ agents/clients already joined, 50+ API endpoints. Deploy, get hired, earn. 85% revenue to creators, $0 to start. 18⭐
-- **CashClaw v1.7.0 "Agent Economy Layer"**: [cashclawai.com](https://cashclawai.com) | [GitHub](https://github.com/ertugrulakben/cashclaw) | [npm](https://npmjs.com/package/cashclaw) - Open-source middleware that turns OpenClaw AI agents into autonomous freelance machines. **"agents earn, agents spend, Guard protects."** 13 ready-made skills, **Guard** safety layer, **runtime cost cap**, **recursive kill**, **tool firewall**, **MPP stablecoin payments** alongside Stripe, 50+ HYRVE API endpoints, job polling daemon, auto-accept mode, 0% commission. **283⭐, 104 forks, 13 watchers.** Went viral organically through YouTube Shorts ([demo 1](https://www.youtube.com/shorts/ME4_ItArAc0), [demo 2](https://www.youtube.com/shorts/57ejuFMDvmk)) and dozens of community-made videos. `npx cashclaw init`
+- **HYRVE AI**: [hyrveai.com](https://www.hyrveai.com) - The OS for the AI agent economy. 6,040+ agents/clients already joined, 50+ API endpoints. Deploy, get hired, earn. 85% revenue to creators, $0 to start. 19⭐
+- **CashClaw v1.7.0 "Agent Economy Layer"**: [cashclawai.com](https://cashclawai.com) | [GitHub](https://github.com/ertugrulakben/cashclaw) | [npm](https://npmjs.com/package/cashclaw) - Open-source middleware that turns OpenClaw AI agents into autonomous freelance machines. **"agents earn, agents spend, Guard protects."** 13 ready-made skills, **Guard** safety layer, **runtime cost cap**, **recursive kill**, **tool firewall**, **MPP stablecoin payments** alongside Stripe, 50+ HYRVE API endpoints, job polling daemon, auto-accept mode, 0% commission. **285⭐, 105 forks, 13 watchers.** Went viral organically through YouTube Shorts ([demo 1](https://www.youtube.com/shorts/ME4_ItArAc0), [demo 2](https://www.youtube.com/shorts/57ejuFMDvmk)) and dozens of community-made videos. `npx cashclaw init`
 - **NEURON**: [GitHub](https://github.com/ertugrulakben/NEURON) - Hybrid memory architecture for LLMs. Crystal Memory + Morph Layer + Temporal Belief Graph. 98.27% accuracy. Open source (MIT).
 - **Lucid**: [GitHub](https://github.com/ertugrulakben/lucid) - Open-source desktop AI agent that sees the screen and drives mouse/keyboard like a human operator. **v0.6.0** with Step Gallery, ThoughtChain, Cursor Halo, Browser actions, MCP bridge. 3 modes (Answer/Teach/Execute), Windows UI Automation based semantic clicks (`click_element`, `focus_window`, `file_dialog_paste`, `screenshot_to_clipboard`, `run_shell`), clipboard-based typing (keyboard-layout independent), SQLite memory, named workflows with variables (`lucid run create_invoice --var customer=Acme`), scheduled tasks (`--cron`/`--every`/`--in 30m`), reference image attachments, resilient long-task mode, built-in settings dialog with provider picker (Anthropic API / Claude Code CLI / LM Studio local). Per-action timeout, destructive action confirmation modal, kill switch, retry escalation with loop detector. Python 3.10+, Windows 10/11, **200+ tests, MIT license.**
 - **VOXONIC AI** (formerly EA Real-Time Translation System): [voxonicai.com](https://voxonicai.com) — Live voice AI translation for call centers. Zoom, Google Meet, WhatsApp, phone calls. **0.6s end-to-end latency**, **80+ languages**, speaker's own cloned voice (ElevenLabs v3), emotion preservation via audio tags ([laughs], [whispers], [excited]). Context-aware Whisper pipeline (recent transcript history, proper-noun vocabulary injection), hybrid VAD + soft-cap flush, LRU translation cache, 16kHz upstream. **In production for 1 year in my call center.** Now live as enterprise SaaS for call centers.
@@ -55,9 +55,9 @@ For projects requiring production-line automation, sensor data, PLC/SCADA, robot
 
 ## Publications & Media
 
-- **Columnist** at [Startup Gazetesi](https://startupgazetesi.com/author/ea/) (23 articles) & [Aksu TV Haber](https://www.aksutvhaber.net/ertugrul-akben) (22 articles)
+- **Columnist** at [Startup Gazetesi](https://startupgazetesi.com/author/ea/) (25 articles) & [Aksu TV Haber](https://www.aksutvhaber.net/ertugrul-akben) (23 articles)
 - **AI-MOI 2025 Research Report**: [ai.ertugrulakben.com](https://ai.ertugrulakben.com)
-- **Personal Blog**: [ertugrulakben.com](https://ertugrulakben.com) (131 articles)
+- **Personal Blog**: [ertugrulakben.com](https://ertugrulakben.com) (135 articles)
 - **Speaker**: Dijital Zirve Manavgat 2025 - AI Talk
 
 ---
@@ -93,11 +93,11 @@ Infra       : Cloudflare, Plesk, Docker
 - **136+** Investments
 - **100+** SaaS projects in production
 - **8** Open source projects on GitHub
-- **304** GitHub stars (CashClaw 283 + HYRVE 18 + others)
+- **308** GitHub stars (CashClaw 285 + HYRVE 19 + others)
 - **500+** Individual AI training sessions
 - **30+** Corporate training partners
-- **131** Technical blog posts
-- **45** Column articles (23 Startup Gazetesi + 22 Aksu TV)
+- **137** Technical blog posts
+- **50** Column articles (26 Startup Gazetesi + 24 Aksu TV)
 - **34+** Certifications (EU, Google, BTK, Turkcell, LinkedIn, SHGM)
 
 ---
