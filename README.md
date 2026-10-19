@@ -8,13 +8,13 @@
 
 ## About Me
 
-I'm a Turkish AI strategist, entrepreneur, and researcher based in Antalya. I founded Ağabeyoğlu Grup in 2016 and have since expanded to the UK (EAGM Group) and USA (Tech AI Core).
+I'm a Turkish AI strategist, entrepreneur, and researcher based in Antalya. I founded Ağabeyoğlu Grup in 2016. In 2024 I founded EAGM Group Ltd. in London and exited in September 2026 (the company was sold); Tech AI Core LLC was founded in Delaware in 2025.
 
 In 2025, I conducted **AI-MOI Turkey 2025** research - surveying 490 companies and 1,414 participants across Turkey's seven regions to measure AI maturity in businesses. Result: Average score of 14.03/100, with only 8.6% of SMEs actively using AI.
 
 I serve as **Board Advisor at MASİAD** (Manavgat Industrialists and Business People Association) since 2024, leading the organization's digital transformation and AI strategy.
 
-I also built **JARVIS**, a personal AI assistant system powered by Claude Opus 4.8 with 90 skills, 53 agents, and 347+ MCP tools (17 servers, 16 active, including Blender 3D) - featuring live voice calls, WhatsApp automation, and autonomous operation modes.
+I also built **Artur** (named JARVIS until October 2026), my personal AI operating system on Claude Code: 114 skills, 61 agents and 22 MCP servers, driven from my phone over Telegram, with live voice calls, WhatsApp automation and autonomous operation modes.
 
 My approach treats AI not merely as a chatbot or content-generation layer, but as an operational intelligence backbone connecting CRM, ERP, finance, HR, production, quality, security, field operations, and management workflows. I am not a PLC/SCADA or mechatronics installer; I work as an AI systems architect who can bridge white-collar digital transformation with factory-floor realities such as cameras, field data, production workflows, quality control, safety, IoT signals, and enterprise systems.
 
@@ -32,11 +32,11 @@ For projects requiring production-line automation, sensor data, PLC/SCADA, robot
 - **AI Education**: [SYS4AI](https://sys4ai.com) - 500+ individual students, 30+ corporate partners
 - **GEOSATINAL**: [geosatinal.com](https://geosatinal.com) - Generative Engine Optimization (GEO) agency. Brand citation optimization for ChatGPT, Gemini, Perplexity, and Google AI Mode. The AI-era adaptation of the SEO services we've been delivering for years, now launched as a dedicated service brand.
 - **Meslek Risk AI**: [meslekriskiai.com](https://www.meslekriskiai.com) - AI job displacement risk calculator with 45+ professions, Goldman Sachs/WEF/McKinsey data
-- **HYRVE AI**: [hyrveai.com](https://www.hyrveai.com) - The OS for the AI agent economy. 6,040+ agents/clients already joined, 50+ API endpoints. Deploy, get hired, earn. 85% revenue to creators, $0 to start. 19⭐
-- **CashClaw v1.7.0 "Agent Economy Layer"**: [cashclawai.com](https://cashclawai.com) | [GitHub](https://github.com/ertugrulakben/cashclaw) | [npm](https://npmjs.com/package/cashclaw) - Open-source middleware that turns OpenClaw AI agents into autonomous freelance machines. **"agents earn, agents spend, Guard protects."** 13 ready-made skills, **Guard** safety layer, **runtime cost cap**, **recursive kill**, **tool firewall**, **MPP stablecoin payments** alongside Stripe, 50+ HYRVE API endpoints, job polling daemon, auto-accept mode, 0% commission. **285⭐, 105 forks, 13 watchers.** Went viral organically through YouTube Shorts ([demo 1](https://www.youtube.com/shorts/ME4_ItArAc0), [demo 2](https://www.youtube.com/shorts/57ejuFMDvmk)) and dozens of community-made videos. `npx cashclaw init`
+- **HYRVE AI**: [hyrveai.com](https://www.hyrveai.com) - The OS for the AI agent economy. 6,040+ agents/clients already joined, 50+ API endpoints. Deploy, get hired, earn. 85% revenue to creators, $0 to start. 20⭐
+- **CashClaw v1.7.0 "Agent Economy Layer"**: [cashclawai.com](https://cashclawai.com) | [GitHub](https://github.com/ertugrulakben/cashclaw) | [npm](https://npmjs.com/package/cashclaw) - Open-source middleware that turns OpenClaw AI agents into autonomous freelance machines. **"agents earn, agents spend, Guard protects."** 13 ready-made skills, **Guard** safety layer, **runtime cost cap**, **recursive kill**, **tool firewall**, **MPP stablecoin payments** alongside Stripe, 50+ HYRVE API endpoints, job polling daemon, auto-accept mode, 0% commission. **305⭐, 108 forks.** Went viral organically through YouTube Shorts ([demo 1](https://www.youtube.com/shorts/ME4_ItArAc0), [demo 2](https://www.youtube.com/shorts/57ejuFMDvmk)) and dozens of community-made videos. `npx cashclaw init`
 - **NEURON**: [GitHub](https://github.com/ertugrulakben/NEURON) - Hybrid memory architecture for LLMs. Crystal Memory + Morph Layer + Temporal Belief Graph. 98.27% accuracy. Open source (MIT).
 - **Lucid**: [GitHub](https://github.com/ertugrulakben/lucid) - Open-source desktop AI agent that sees the screen and drives mouse/keyboard like a human operator. **v0.6.0** with Step Gallery, ThoughtChain, Cursor Halo, Browser actions, MCP bridge. 3 modes (Answer/Teach/Execute), Windows UI Automation based semantic clicks (`click_element`, `focus_window`, `file_dialog_paste`, `screenshot_to_clipboard`, `run_shell`), clipboard-based typing (keyboard-layout independent), SQLite memory, named workflows with variables (`lucid run create_invoice --var customer=Acme`), scheduled tasks (`--cron`/`--every`/`--in 30m`), reference image attachments, resilient long-task mode, built-in settings dialog with provider picker (Anthropic API / Claude Code CLI / LM Studio local). Per-action timeout, destructive action confirmation modal, kill switch, retry escalation with loop detector. Python 3.10+, Windows 10/11, **200+ tests, MIT license.**
-- **VOXONIC AI** (formerly EA Real-Time Translation System): [voxonicai.com](https://voxonicai.com) — Live voice AI translation for call centers. Zoom, Google Meet, WhatsApp, phone calls. **0.6s end-to-end latency**, **80+ languages**, speaker's own cloned voice (ElevenLabs v3), emotion preservation via audio tags ([laughs], [whispers], [excited]). Context-aware Whisper pipeline (recent transcript history, proper-noun vocabulary injection), hybrid VAD + soft-cap flush, LRU translation cache, 16kHz upstream. **In production for 1 year in my call center.** Now live as enterprise SaaS for call centers.
+- **VOXONIC AI** (formerly EA Real-Time Translation System): [voxonicai.com](https://voxonicai.com) - Live voice AI translation for call centers. Zoom, Google Meet, WhatsApp, phone calls. **0.6s end-to-end latency**, **80+ languages**, speaker's own cloned voice (ElevenLabs v3), emotion preservation via audio tags ([laughs], [whispers], [excited]). Context-aware Whisper pipeline (recent transcript history, proper-noun vocabulary injection), hybrid VAD + soft-cap flush, LRU translation cache, 16kHz upstream. **In production for 1 year in my call center.** Now live as enterprise SaaS for call centers.
 - **Soru Koçu**: [sorukocu.com](https://sorukocu.com) - AI-powered exam prep platform for Turkish university/high school entrance exams (TYT/AYT/LGS). AI image cleaning, step-by-step solutions, similar question generation, spaced repetition flashcards, live exam countdown.
 - **WinGPT Assistant**: [GitHub](https://github.com/ertugrulakben/WinGPTAssistant) - Windows desktop AI assistant application.
 - **100+ SaaS Projects**: From accounting to CRM, photo processing to education platforms
@@ -48,16 +48,16 @@ For projects requiring production-line automation, sensor data, PLC/SCADA, robot
 | Company | Location | Focus |
 |---------|----------|-------|
 | [Ağabeyoğlu Grup](https://agabeyoglugrup.com) | Istanbul, TR | Media, Software, Construction |
-| [EAGM Group](https://eagmgroup.com) | London, UK | AI Solutions, Digital Marketing |
-| [Tech AI Core](https://eagmgroup.com) | Delaware, USA | AI & Software Development |
+| EAGM Group Ltd. | London, UK | AI Solutions, Digital Marketing (founded 2024, exited September 2026) |
+| Tech AI Core LLC | Delaware, USA | AI & Software Development (founded 2025) |
 
 ---
 
 ## Publications & Media
 
-- **Columnist** at [Startup Gazetesi](https://startupgazetesi.com/author/ea/) (25 articles) & [Aksu TV Haber](https://www.aksutvhaber.net/ertugrul-akben) (23 articles)
+- **Columnist** at [Startup Gazetesi](https://startupgazetesi.com/author/ea/) (36 articles) & [Aksu TV Haber](https://www.aksutvhaber.net/ertugrul-akben) (38 articles)
 - **AI-MOI 2025 Research Report**: [ai.ertugrulakben.com](https://ai.ertugrulakben.com)
-- **Personal Blog**: [ertugrulakben.com](https://ertugrulakben.com) (135 articles)
+- **Personal Blog**: [ertugrulakben.com](https://ertugrulakben.com) (140+ articles)
 - **Speaker**: Dijital Zirve Manavgat 2025 - AI Talk
 
 ---
@@ -89,15 +89,13 @@ Infra       : Cloudflare, Plesk, Docker
 
 ## Stats
 
-- **5+** Companies across **7** countries
-- **136+** Investments
 - **100+** SaaS projects in production
 - **8** Open source projects on GitHub
-- **308** GitHub stars (CashClaw 285 + HYRVE 19 + others)
+- **329** GitHub stars (CashClaw 305 + HYRVE 20 + others)
 - **500+** Individual AI training sessions
 - **30+** Corporate training partners
-- **137** Technical blog posts
-- **50** Column articles (26 Startup Gazetesi + 24 Aksu TV)
+- **140+** Technical blog posts
+- **74** Column articles (36 Startup Gazetesi + 38 Aksu TV)
 - **34+** Certifications (EU, Google, BTK, Turkcell, LinkedIn, SHGM)
 
 ---
@@ -105,6 +103,7 @@ Infra       : Cloudflare, Plesk, Docker
 ## Connect
 
 - **Website**: [ertugrulakben.com](https://ertugrulakben.com)
+- **AI-readable profile**: [ertugrulakben.com/llms.txt](https://ertugrulakben.com/llms.txt)
 - **LinkedIn**: [linkedin.com/in/ertugrulakben](https://linkedin.com/in/ertugrulakben)
 - **Instagram**: [@ertugrulakben](https://instagram.com/ertugrulakben)
 - **YouTube**: [Ertuğrul Akben](https://youtube.com/c/ErtuğrulAkben)
